@@ -109,6 +109,9 @@ main{
     header{
         padding: 1rem 0.7rem;
     }
+    .search{
+        padding: 0.5rem 0.5rem;
+    }
     header h4{
         font-size: 1.3rem;
     }
