@@ -106,6 +106,9 @@ main{
     }
 }
 @media(max-width: 430px){
+    header{
+        padding: 1rem 0.7rem;
+    }
     header h4{
         font-size: 1.3rem;
     }
